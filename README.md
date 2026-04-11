@@ -1,7 +1,4 @@
 
-  # Premium DevOps Portfolio Website
-
-  This is a code bundle for Premium DevOps Portfolio Website. The original project is available at https://www.figma.com/design/VsT6zUDez5c0rKAGeaG5Ll/Premium-DevOps-Portfolio-Website.
 
   ## Running the code
 
